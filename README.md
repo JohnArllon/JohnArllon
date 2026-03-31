@@ -50,3 +50,15 @@ Focused on building ETL pipelines, optimizing queries, and generating insights f
 ## 📫 Contato | Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/john-arllon-batista/
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnArllon&show_icons=true&theme=radical)
+
+---
+
+## 🛠 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnArllon&layout=compact)
